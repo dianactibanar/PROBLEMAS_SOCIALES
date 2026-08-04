@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Banner - Problemas Sociales Contemporáneos</title>
+  <style>
+    :root{
+      --azul:#003057;
+      --azul-claro:#006A8E;
+      --amarillo:#F2A900;
+      --blanco:#FFFFFF;
+    }
+
+    *{box-sizing:border-box}
+
+    body{
+      margin:0;
+      padding:24px;
+      background:#f4f6f8;
+      font-family:Arial, Helvetica, sans-serif;
+    }
+
+    .banner{
+      width:100%;
+      max-width:1200px;
+      min-height:220px;
+      margin:auto;
+      display:grid;
+      grid-template-columns:170px 1fr;
+      overflow:hidden;
+      border-radius:20px;
+      background:
+        radial-gradient(circle at 85% 20%, rgba(242,169,0,.22), transparent 24%),
+        linear-gradient(130deg, var(--azul) 0%, #00497a 62%, var(--azul-claro) 100%);
+      box-shadow:0 14px 36px rgba(0,48,87,.20);
+      color:var(--blanco);
+      position:relative;
+    }
+
+    .banner::after{
+      content:"";
+      position:absolute;
+      right:-55px;
+      bottom:-95px;
+      width:260px;
+      height:260px;
+      border:34px solid rgba(255,255,255,.07);
+      border-radius:50%;
+    }
+
+    .marca{
+      background:var(--amarillo);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding:24px;
+      position:relative;
+      z-index:2;
+    }
+
+    .simbolo{
+      width:94px;
+      height:94px;
+      border:5px solid var(--azul);
+      border-radius:22px 22px 42px 42px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:var(--azul);
+      font-weight:800;
+      font-size:36px;
+      letter-spacing:-3px;
+      background:rgba(255,255,255,.18);
+    }
+
+    .contenido{
+      padding:30px 38px;
+      display:flex;
+      flex-direction:column;
+      justify-content:center;
+      position:relative;
+      z-index:2;
+    }
+
+    .universidad{
+      margin:0 0 8px;
+      font-size:15px;
+      font-weight:700;
+      letter-spacing:1.6px;
+      text-transform:uppercase;
+      color:#ffe6a3;
+    }
+
+    h1{
+      margin:0;
+      font-size:clamp(28px,4vw,48px);
+      line-height:1.05;
+      max-width:850px;
+    }
+
+    .subtitulo{
+      margin:12px 0 0;
+      font-size:clamp(15px,2vw,20px);
+      line-height:1.45;
+      max-width:820px;
+      color:#eaf3f8;
+    }
+
+    .etiquetas{
+      margin-top:18px;
+      display:flex;
+      gap:9px;
+      flex-wrap:wrap;
+    }
+
+    .etiqueta{
+      padding:7px 12px;
+      border-radius:999px;
+      background:rgba(255,255,255,.12);
+      border:1px solid rgba(255,255,255,.25);
+      font-size:13px;
+      font-weight:700;
+    }
+
+    @media (max-width:650px){
+      body{padding:12px}
+      .banner{grid-template-columns:1fr}
+      .marca{
+        justify-content:flex-start;
+        padding:16px 22px;
+      }
+      .simbolo{
+        width:64px;
+        height:64px;
+        font-size:26px;
+        border-width:4px;
+      }
+      .contenido{padding:24px}
+    }
+  </style>
+</head>
+<body>
+
+  <section class="banner" aria-label="Banner del curso Problemas Sociales Contemporáneos">
+    <div class="marca">
+      <div class="simbolo" aria-hidden="true">LS</div>
+    </div>
+
+    <div class="contenido">
+      <p class="universidad">Universidad de La Salle</p>
+      <h1>Problemas Sociales Contemporáneos</h1>
+      <p class="subtitulo">
+        Línea del tiempo interactiva sobre transformaciones históricas,
+        enfoques teóricos y desafíos sociales actuales.
+      </p>
+
+      <div class="etiquetas">
+        <span class="etiqueta">Maestría en Investigación e Intervención Social</span>
+        <span class="etiqueta">Recurso académico interactivo</span>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
