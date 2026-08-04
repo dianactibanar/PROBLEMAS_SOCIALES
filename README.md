@@ -1,3 +1,4 @@
+[linea_tiempo_problemas_sociales_contemporaneos (1).html](https://github.com/user-attachments/files/30722176/linea_tiempo_problemas_sociales_contemporaneos.1.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -213,7 +214,7 @@ main{max-width:1280px;margin:auto;padding:36px 24px 80px}
       <h1>Problemas sociales contemporáneos</h1>
       <p>Hitos históricos, académicos y normativos para comprender cómo las sociedades han definido, investigado y enfrentado la desigualdad, la exclusión, los riesgos y las crisis colectivas.</p>
       <div class="hero-stats">
-        <div class="stat"><b>24</b><span>hitos documentados</span></div>
+        <div class="stat"><b>22</b><span>hitos documentados</span></div>
         <div class="stat"><b>180 años</b><span>de transformaciones</span></div>
         <div class="stat"><b>6</b><span>etapas analíticas</span></div>
       </div>
@@ -240,7 +241,7 @@ main{max-width:1280px;margin:auto;padding:36px 24px 80px}
   <section class="controls" aria-label="Controles de la línea del tiempo">
     <div class="controls-top">
       <div class="search-wrap"><input id="searchInput" type="search" placeholder="Buscar: pobreza, género, riesgo, Colombia, trabajo…" aria-label="Buscar en la línea del tiempo"></div>
-      <span class="result-count" id="resultCount">24 hitos visibles</span>
+      <span class="result-count" id="resultCount">22 hitos visibles</span>
     </div>
     <div class="filters"><button class="filter active" data-filter="Todos">Todos</button>
 <button class="filter" data-filter="Desigualdad y trabajo">Desigualdad y trabajo</button>
@@ -254,7 +255,7 @@ main{max-width:1280px;margin:auto;padding:36px 24px 80px}
 
   <nav class="stage-nav" aria-label="Navegación por etapas">
     <button class="stage-link" data-stage="Cuestión social e industrialización"><span>1845–1903</span>Cuestión social e industrialización</button>
-<button class="stage-link" data-stage="Institucionalización y derechos"><span>1919–1949</span>Institucionalización y derechos</button>
+<button class="stage-link" data-stage="Institucionalización y derechos"><span>1919–1948</span>Institucionalización y derechos</button>
 <button class="stage-link" data-stage="Ambiente, construcción social y riesgos"><span>1962–1986</span>Ambiente, construcción social y riesgos</button>
 <button class="stage-link" data-stage="Interseccionalidad y desarrollo humano"><span>1989–1991</span>Interseccionalidad y desarrollo humano</button>
 <button class="stage-link" data-stage="Problemas integrados y metas globales"><span>2000–2015</span>Problemas integrados y metas globales</button>
@@ -536,28 +537,6 @@ main{max-width:1280px;margin:auto;padding:36px 24px 80px}
       </div>
     </article>
     
-
-    <article class="event-card" id="evento-23" data-year="1949" data-stage="Institucionalización y derechos" data-cats="Desigualdad y trabajo|Teoría y método|Digital y global" data-search="américa latina interpreta el subdesarrollo como relación estructural raúl prebisch cepal centro periferia la desigualdad internacional no se explica como simple atraso interno sino por una inserción asimétrica en la economía mundial. estructura centro periferia. deterioro de los términos de intercambio. necesidad de transformación productiva y políticas de desarrollo propias.">
-      <div class="timeline-marker" aria-hidden="true"><span>1949</span></div>
-      <div class="event-shell">
-        <button class="event-head" aria-expanded="false" aria-controls="detalle-23">
-          <div class="event-meta"><span class="event-year">1949</span><span class="event-type">Pensamiento latinoamericano</span></div>
-          <h3>América Latina interpreta el subdesarrollo como relación estructural</h3>
-          <p class="author">Raúl Prebisch — CEPAL</p>
-          <p class="summary">La desigualdad internacional deja de explicarse como simple atraso interno y se vincula con una inserción asimétrica entre centros industriales y periferias exportadoras.</p>
-          <div class="tags"><span class="tag">Desigualdad y trabajo</span><span class="tag">Teoría y método</span><span class="tag">Digital y global</span></div>
-          <span class="expand-label"><span class="plus">+</span> Explorar hito</span>
-        </button>
-        <div class="event-detail" id="detalle-23" hidden>
-          <div class="detail-grid">
-            <section><h4>Rasgos principales</h4><ul><li>Estructura centro–periferia.</li><li>Deterioro de los términos de intercambio.</li><li>Heterogeneidad productiva y dependencia externa.</li></ul></section>
-            <section><h4>¿Qué cambia en la comprensión?</h4><p>Introduce una lectura latinoamericana de los problemas del desarrollo: pobreza, empleo y desigualdad se relacionan con la estructura productiva y con la posición de la región en la economía mundial.</p></section>
-          </div>
-          <div class="source-box"><div><span class="source-kicker">Documento o fuente clave</span><strong>Prebisch, R. (1949). El desarrollo económico de la América Latina y algunos de sus principales problemas.</strong></div><div class="source-actions"><a href="https://www.cepal.org/es/publicaciones/40010-desarrollo-economico-la-america-latina-algunos-sus-principales-problemas" target="_blank" rel="noopener noreferrer">Abrir fuente ↗</a><button class="copy-citation" data-citation="Prebisch, R. (1949). El desarrollo económico de la América Latina y algunos de sus principales problemas. CEPAL. https://www.cepal.org/es/publicaciones/40010-desarrollo-economico-la-america-latina-algunos-sus-principales-problemas">Copiar referencia</button></div></div>
-        </div>
-      </div>
-    </article>
-
     <article class="event-card" id="evento-8" data-year="1962" data-stage="Ambiente, construcción social y riesgos" data-cats="Ambiente y salud|Derechos y política" data-search="el ambiente se reconoce como problema social y sanitario rachel carson — silent spring la contaminación química revela que el progreso tecnológico puede generar daños difusos, acumulativos y difíciles de revertir. interdependencia entre ecosistemas, salud humana y producción. conflictos entre evidencia científica, industria y regulación. daños transgeneracionales y distribución desigual de la exposición.">
       <div class="timeline-marker" aria-hidden="true"><span>1962</span></div>
       <div class="event-shell">
@@ -909,28 +888,6 @@ main{max-width:1280px;margin:auto;padding:36px 24px 80px}
       </div>
     </article>
     
-
-    <article class="event-card" id="evento-24" data-year="2000" data-stage="Problemas integrados y metas globales" data-cats="Género, raza e intersecciones|Teoría y método|Digital y global" data-search="la colonialidad explica la persistencia histórica de jerarquías aníbal quijano colonialidad del poder eurocentrismo américa latina raza trabajo conocimiento autoridad modernidad colonialidad. persistencia de clasificaciones raciales. articulación entre capitalismo colonialismo y eurocentrismo. crítica a categorías universales desconectadas de la historia latinoamericana.">
-      <div class="timeline-marker" aria-hidden="true"><span>2000</span></div>
-      <div class="event-shell">
-        <button class="event-head" aria-expanded="false" aria-controls="detalle-24">
-          <div class="event-meta"><span class="event-year">2000</span><span class="event-type">Pensamiento latinoamericano</span></div>
-          <h3>La colonialidad explica la persistencia histórica de jerarquías</h3>
-          <p class="author">Aníbal Quijano — colonialidad del poder</p>
-          <p class="summary">Las desigualdades contemporáneas se vinculan con clasificaciones raciales, formas de trabajo, autoridad y producción de conocimiento originadas en la experiencia colonial.</p>
-          <div class="tags"><span class="tag">Género, raza e intersecciones</span><span class="tag">Teoría y método</span><span class="tag">Digital y global</span></div>
-          <span class="expand-label"><span class="plus">+</span> Explorar hito</span>
-        </button>
-        <div class="event-detail" id="detalle-24" hidden>
-          <div class="detail-grid">
-            <section><h4>Rasgos principales</h4><ul><li>Persistencia de clasificaciones raciales del poder.</li><li>Articulación entre capitalismo, colonialismo y eurocentrismo.</li><li>Crítica a categorías universales desconectadas de la historia latinoamericana.</li></ul></section>
-            <section><h4>¿Qué cambia en la comprensión?</h4><p>Permite analizar racismo, desigualdad, exclusión epistémica y subordinación territorial como continuidades históricas, no únicamente como fallas recientes de integración.</p></section>
-          </div>
-          <div class="source-box"><div><span class="source-kicker">Documento o fuente clave</span><strong>Quijano, A. (2000). Colonialidad del poder, eurocentrismo y América Latina.</strong></div><div class="source-actions"><a href="https://biblioteca.clacso.edu.ar/clacso/se/20140507042402/eje3-8.pdf" target="_blank" rel="noopener noreferrer">Abrir fuente ↗</a><button class="copy-citation" data-citation="Quijano, A. (2000). Colonialidad del poder, eurocentrismo y América Latina. En E. Lander (comp.), La colonialidad del saber. CLACSO. https://biblioteca.clacso.edu.ar/clacso/se/20140507042402/eje3-8.pdf">Copiar referencia</button></div></div>
-        </div>
-      </div>
-    </article>
-
     <article class="event-card" id="evento-17" data-year="2008" data-stage="Problemas integrados y metas globales" data-cats="Ambiente y salud|Desigualdad y trabajo|Derechos y política" data-search="la salud depende de las “causas de las causas” oms — comisión sobre determinantes sociales de la salud las inequidades en salud se explican por las condiciones en que las personas nacen, crecen, viven, trabajan y envejecen, y por la distribución del poder y los recursos. gradiente social de la salud. articulación entre territorio, empleo, género, educación, vivienda y protección social. equidad en salud como cuestión de justicia social.">
       <div class="timeline-marker" aria-hidden="true"><span>2008</span></div>
       <div class="event-shell">
@@ -1210,7 +1167,6 @@ main{max-width:1280px;margin:auto;padding:36px 24px 80px}
 <li><span>1919</span><a href="https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000:62:0::NO:62:P62_LIST_ENTRIE_ID:2453907:NO" target="_blank" rel="noopener noreferrer">International Labour Organization. ILO Constitution (1919).</a><em>Documento normativo</em></li>
 <li><span>1942</span><a href="https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/coll-9-health1/coll-9-health/" target="_blank" rel="noopener noreferrer">UK Parliament. The 1942 Beveridge Report.</a><em>Informe gubernamental</em></li>
 <li><span>1948</span><a href="https://www.un.org/es/about-us/universal-declaration-of-human-rights" target="_blank" rel="noopener noreferrer">Naciones Unidas. Declaración Universal de los Derechos Humanos (1948).</a><em>Documento internacional</em></li>
-<li><span>1949</span><a href="https://www.cepal.org/es/publicaciones/40010-desarrollo-economico-la-america-latina-algunos-sus-principales-problemas" target="_blank" rel="noopener noreferrer">Prebisch, R. (1949). El desarrollo económico de la América Latina y algunos de sus principales problemas.</a><em>Pensamiento latinoamericano</em></li>
 <li><span>1962</span><a href="https://www.epa.gov/history/origins-epa" target="_blank" rel="noopener noreferrer">U.S. Environmental Protection Agency. The Origins of EPA.</a><em>Historia institucional</em></li>
 <li><span>1971</span><a href="https://www.jstor.org/stable/799797" target="_blank" rel="noopener noreferrer">Blumer, H. (1971). Social Problems as Collective Behavior. Social Problems, 18(3), 298–306.</a><em>Artículo académico</em></li>
 <li><span>1972</span><a href="https://www.clubofrome.org/publication/the-limits-to-growth/" target="_blank" rel="noopener noreferrer">Club of Rome. The Limits to Growth (1972).</a><em>Informe científico</em></li>
@@ -1220,7 +1176,6 @@ main{max-width:1280px;margin:auto;padding:36px 24px 80px}
 <li><span>1990</span><a href="https://hdr.undp.org/system/files/documents/hdr1990encompletenostats.pdf" target="_blank" rel="noopener noreferrer">UNDP. Human Development Report 1990.</a><em>Informe internacional</em></li>
 <li><span>1991</span><a href="https://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html" target="_blank" rel="noopener noreferrer">Colombia. Constitución Política de 1991.</a><em>Documento constitucional</em></li>
 <li><span>2000</span><a href="https://www.un.org/esa/devagenda/millennium.html" target="_blank" rel="noopener noreferrer">Naciones Unidas. Declaración del Milenio (2000).</a><em>Documento internacional</em></li>
-<li><span>2000</span><a href="https://biblioteca.clacso.edu.ar/clacso/se/20140507042402/eje3-8.pdf" target="_blank" rel="noopener noreferrer">Quijano, A. (2000). Colonialidad del poder, eurocentrismo y América Latina.</a><em>Pensamiento latinoamericano</em></li>
 <li><span>2008</span><a href="https://www.who.int/publications/i/item/9789241563703" target="_blank" rel="noopener noreferrer">WHO. Closing the gap in a generation (2008).</a><em>Informe científico</em></li>
 <li><span>2015</span><a href="https://sdgs.un.org/es/2030agenda" target="_blank" rel="noopener noreferrer">Naciones Unidas. Transformar nuestro mundo: Agenda 2030 (2015).</a><em>Agenda internacional</em></li>
 <li><span>2020</span><a href="https://www.un.org/development/desa/en/news/sustainable/sustainable-development-goals-report-2020.html" target="_blank" rel="noopener noreferrer">UN DESA. The Sustainable Development Goals Report 2020.</a><em>Informe internacional</em></li>
